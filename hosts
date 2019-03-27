@@ -1,7 +1,7 @@
 
 #=====================================
 # DNS over HTTPS Hosts
-# Fetch the latest version of this file: https://raw.githubusercontent.com/tjay/DoH-List/master/
+# Fetch the latest version of this file: https://raw.githubusercontent.com/tjay/DoH-List/master/hosts
 #
 0.0.0.0 cloudflare-dns.com
 0.0.0.0 mozilla.cloudflare-dns.com
