@@ -4,6 +4,7 @@
 # Fetch the latest version of this file: https://raw.githubusercontent.com/tjay/DoH-List/master/hosts
 #
 0.0.0.0 cloudflare-dns.com
+0.0.0.0 1dot1dot1dot1.cloudflare-dns.com
 0.0.0.0 mozilla.cloudflare-dns.com
 0.0.0.0 doh.cleanbrowsing.org
 0.0.0.0 dns10.quad9.net
@@ -34,3 +35,4 @@
 0.0.0.0 jp.tiar.app
 0.0.0.0 rdns.faelix.net
 0.0.0.0 dns.nextdns.io
+0.0.0.0 dns.digitale-gesellschaft.ch
